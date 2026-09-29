@@ -1,0 +1,26 @@
+commodity,food_category,moisture_percent,fat_percent,ph,respiration_rate,target_shelf_life_days,storage_temperature_c,relative_humidity_percent,storage_type,transportation,moisture_sensitivity,oxygen_sensitivity,required_otr_level,required_wvtr_level,required_mechanical_strength,required_sealability,map_required,breathability_required
+Tomato,Fresh Vegetable,94,0.2,4.3,High,15,5,90,Chilled,Refrigerated,High,High,High,Medium,High,High,Yes,High
+Potato,Root Vegetable,79,0.1,5.6,Medium,30,10,90,Chilled,Ambient/Refrigerated,Medium,High,Medium,Medium,High,Medium,Conditional,Medium
+Onion,Bulb Vegetable,89,0.1,5.5,Low,60,25,65,Ambient,Ambient,Low,Medium,Low,Medium,Medium,Medium,No,Low
+Apple,Fresh Fruit,86,0.2,3.5,Low,90,2,90,Chilled,Refrigerated,Medium,Medium,Medium,Medium,Medium,Medium,Yes,Medium
+Banana,Fresh Fruit,75,0.3,5.0,High,14,13,90,Ambient,Ambient,High,High,High,Medium,Medium,High,Conditional,High
+Mango,Fresh Fruit,83,0.4,4.0,Medium,21,10,90,Chilled,Refrigerated,Medium,High,Medium,Medium,Medium,High,Yes,Medium
+Orange,Citrus Fruit,87,0.2,3.5,Medium,45,5,90,Chilled,Refrigerated,Medium,Medium,Medium,Medium,High,Medium,Conditional,Medium
+Cucumber,Fresh Vegetable,96,0.1,5.2,High,14,10,95,Chilled,Refrigerated,High,High,High,Medium,Medium,High,Yes,High
+Carrot,Root Vegetable,88,0.2,6.0,Medium,45,4,95,Chilled,Refrigerated,Medium,High,Medium,Medium,High,Medium,Yes,Medium
+Spinach,Leafy Vegetable,91,0.4,6.5,Very High,7,2,95,Chilled,Refrigerated,Very High,Very High,Very High,Medium,Medium,High,Yes,Very High
+Rice,Grain,12,1.0,6.5,Low,365,25,60,Ambient,Ambient,Low,High,Low,Very Low,Medium,High,No,Low
+Wheat,Grain,13,2.0,6.0,Low,365,25,60,Ambient,Ambient,Low,High,Low,Very Low,Medium,High,No,Low
+Maize,Grain,13,4.5,6.0,Low,365,25,60,Ambient,Ambient,Low,High,Low,Very Low,High,High,No,Low
+Oats,Cereal Grain,10,7.0,6.0,Low,365,20,60,Ambient,Ambient,Low,High,Low,Very Low,Medium,High,No,Low
+Potato Chips,Snack,2,35.0,6.0,Low,180,25,50,Ambient,Ambient,Very Low,Very High,Very Low,Very Low,Medium,High,No,Low
+Biscuits,Baked Snack,4,15.0,7.0,Low,180,25,50,Ambient,Ambient,Very Low,High,Very Low,Very Low,Medium,High,No,Low
+Bread,Bakery,38,4.0,5.5,Low,7,25,60,Ambient,Ambient,Medium,High,Medium,Medium,Medium,High,Conditional,Medium
+Milk Powder,Dairy Powder,4,26.0,6.7,Low,180,20,40,Ambient,Ambient,Very Low,Very High,Very Low,Very Low,High,High,No,Low
+Turmeric Powder,Spice,10,3.0,5.5,Low,365,25,60,Ambient,Ambient,Low,High,Low,Very Low,Medium,High,No,Low
+Coffee Beans,Beverage Ingredient,8,15.0,5.0,Low,365,20,60,Ambient,Ambient,Very Low,High,Very Low,Very Low,Medium,High,No,Low
+Peanuts,Nut,6,49.0,6.5,Low,180,20,60,Ambient,Ambient,Low,High,Low,Low,High,High,No,Low
+Cashews,Nut,5,44.0,6.0,Low,365,20,60,Ambient,Ambient,Very Low,High,Low,Low,Medium,High,No,Low
+Lentils,Pulse,10,1.5,6.5,Low,365,25,60,Ambient,Ambient,Low,High,Low,Low,High,High,No,Low
+Raisins,Dried Fruit,15,0.5,4.0,Low,180,20,60,Ambient,Ambient,Low,High,Low,Low,Medium,High,No,Low
+Flour,Milled Grain,12,1.5,6.0,Low,180,20,60,Ambient,Ambient,Low,High,Low,Low,Medium,High,No,Low
